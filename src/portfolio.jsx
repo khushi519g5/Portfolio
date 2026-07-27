@@ -41,6 +41,7 @@ const Portfolio = () => {
         "Interactive web dashboard for uploading MRI scans"
       ],
       tags: ["Python", "TensorFlow", "Keras", "FastAPI"],
+       demoLink: "https://github.com/khushi519g5/Hybrid-Alzheimers-Prediction.git",
       githubLink: "https://github.com/khushi519g5/Hybrid-Alzheimers-Prediction.git",
       image: "https://plus.unsplash.com/premium_photo-1672759455415-34366f0a658a?q=80&w=1416&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
@@ -70,6 +71,7 @@ const Portfolio = () => {
     "Interactive rating and review system"
   ],
   tags: ["React", "Express.js", "MongoDB", "Node.js"],
+    demoLink: "https://github.com/khushi519g5/Culinary-Haven.git",
   githubLink: "https://github.com/khushi519g5/Culinary-Haven.git",
   image: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=800&q=80"
 }
