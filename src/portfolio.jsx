@@ -811,7 +811,6 @@ const Portfolio = () => {
 </a>
             <a href="https://github.com/khushi519g5" target="_blank" rel="noreferrer" className="btn btn-outline">💻 GitHub</a>
             <a href="https://linkedin.com/in/khushi-mittal-136785358" target="_blank" rel="noreferrer" className="btn btn-outline">🔗 LinkedIn</a>
-            <a href="#contact" className="btn btn-outline">✉️ Contact Me</a>
           </div>
         </section>
 
