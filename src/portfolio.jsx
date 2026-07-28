@@ -79,27 +79,27 @@ const Portfolio = () => {
 
   // Measurable Experience
   const experiences = [
-    {
-      role: "Web Development & AI Intern",
-      company: "VaultofCodes",
-      period: "June 2026 – July 2026",
-      points: [
-        "Engineered responsive front-end modules using React, improving cross-device UI load times by 25%.",
-        "Integrated prompt engineering workflows into production LLM wrappers for automated data generation.",
-        "Collaborated with cross-functional teams to design modular backend endpoints with FastAPI."
-      ]
-    },
-    {
-      role: "Software Engineering Intern",
-      company: "AD Infocom Systems",
-      period: "Prior Internship",
-      points: [
-        "Developed REST APIs for production applications using Express.js and MongoDB, accelerating payload retrieval speed by 30%.",
-        "Built responsive web interface components and optimized database indexing for high-frequency queries.",
-        "Participated in daily code reviews and version control workflows via Git/GitHub."
-      ]
-    }
-  ];
+  {
+    role: "AI & Prompt Engineering Intern",
+    company: "VaultofCodes",
+    period: "June 2026 – July 2026",
+    points: [
+      "Explored AI workflows and prompt engineering techniques to improve LLM-based task automation and response generation.",
+      "Designed and tested effective prompts for AI applications, focusing on improving output quality and consistency.",
+      "Worked with AI tools and development workflows to understand practical applications of generative AI."
+    ]
+  },
+  {
+    role: "Web Development Intern",
+    company: "AD Infocom Systems",
+    period: "June 2025 – July 2025",
+    points: [
+      "Developed responsive web components and implemented frontend features using modern web technologies.",
+      "Built and integrated RESTful APIs using Express.js and MongoDB for web application functionality.",
+      "Collaborated using Git/GitHub workflows and followed software development practices during project implementation."
+    ]
+  }
+];
 
   // Achievements List
   const achievements = [
