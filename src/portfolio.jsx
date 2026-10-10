@@ -805,7 +805,7 @@ const Portfolio = () => {
 
           <div className="cta-buttons">
          <a 
-  href="/RESUME (2).pdf" 
+  href="/Resume_khushi.pdf" 
   download="Khushi_Mittal_Resume.pdf" 
   className="btn btn-primary"
 >
