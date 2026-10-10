@@ -949,7 +949,7 @@ const Portfolio = () => {
             <div className="edu-college">Chandigarh College of Engineering & Technology</div>
             <div className="edu-meta">
               <span>2023 – 2027</span>
-              <span><strong>CGPA:</strong> 8.85 / 10.0</span>
+              <span><strong>CGPA:</strong> 8.98 / 10.0</span>
             </div>
           </div>
         </section>
