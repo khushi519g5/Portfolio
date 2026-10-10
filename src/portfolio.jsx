@@ -103,7 +103,7 @@ const Portfolio = () => {
 
   // Achievements List
   const achievements = [
-    { icon: "🧩", title: "85+ LeetCode Problems Solved", desc: "Strong foundation in Data Structures, Algorithms, and logical problem solving." },
+    { icon: "🧩", title: "100+ LeetCode Problems Solved", desc: "Strong foundation in Data Structures, Algorithms, and logical problem solving." },
     { icon: "🎓", title: "Top Academic Performer", desc: "Maintained a high CGPA of 8.85/10 across rigorous engineering coursework." },
     { icon: "💼", title: "2 Practical Internships", desc: "Hands-on industry experience building Web & AI systems." },
     { icon: "🚀", title: "4+ Full-Stack & ML Applications", desc: "Designed, developed, and deployed production-ready software solutions." }
@@ -800,7 +800,7 @@ const Portfolio = () => {
           <div className="hero-meta">
             <div className="hero-meta-item">📍 Chandigarh, India</div>
             <div className="hero-meta-item">🎓 B.E. Computer Science (2023–2027)</div>
-            <div className="hero-meta-item">⭐ CGPA: 8.85</div>
+            <div className="hero-meta-item">⭐ CGPA: 8.98</div>
           </div>
 
           <div className="cta-buttons">
