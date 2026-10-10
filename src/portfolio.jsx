@@ -104,7 +104,7 @@ const Portfolio = () => {
   // Achievements List
   const achievements = [
     { icon: "🧩", title: "100+ LeetCode Problems Solved", desc: "Strong foundation in Data Structures, Algorithms, and logical problem solving." },
-    { icon: "🎓", title: "Top Academic Performer", desc: "Maintained a high CGPA of 8.85/10 across rigorous engineering coursework." },
+    { icon: "🎓", title: "Top Academic Performer", desc: "Maintained a high CGPA of 8.98/10 across rigorous engineering coursework." },
     { icon: "💼", title: "2 Practical Internships", desc: "Hands-on industry experience building Web & AI systems." },
     { icon: "🚀", title: "4+ Full-Stack & ML Applications", desc: "Designed, developed, and deployed production-ready software solutions." }
   ];
