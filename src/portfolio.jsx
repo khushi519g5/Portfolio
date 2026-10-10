@@ -827,11 +827,11 @@ const Portfolio = () => {
             <div className="stat-label">Internships</div>
           </div>
           <div className="stat-card">
-            <div className="stat-number">85+</div>
+            <div className="stat-number">100+</div>
             <div className="stat-label">LeetCode Solved</div>
           </div>
           <div className="stat-card">
-            <div className="stat-number">8.85</div>
+            <div className="stat-number">8.98</div>
             <div className="stat-label">Academic CGPA</div>
           </div>
         </section>
